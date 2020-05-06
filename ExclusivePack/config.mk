@@ -78,8 +78,16 @@ PRODUCT_PACKAGES += \
 #    Termux
 
 # DigiCal
+#PRODUCT_PACKAGES += \
+#    DigiCal
+
+#HedgeCam
 PRODUCT_PACKAGES += \
-    DigiCal
+    HedgeCam
+
+#Gcamgo
+#PRODUCT_PACKAGES += \
+#    Gcamgo
 
 # Ds
 PRODUCT_PACKAGES += \
