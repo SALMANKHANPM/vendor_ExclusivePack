@@ -96,3 +96,7 @@ PRODUCT_PACKAGES += \
 # DsUI
 PRODUCT_PACKAGES += \
     DsUI    
+
+# Spectrum
+PRODUCT_PACKAGES += \
+    Spectrum   
