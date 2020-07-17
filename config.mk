@@ -27,8 +27,8 @@ LOCAL_PATH := vendor/ExclusivePack
 #    $(LOCAL_PATH)/system/framework/dolby_ds.jar:system/framework/dolby_ds.jar 
 
 # Cerberus
-#PRODUCT_PACKAGES += \
-#    Cerberus
+PRODUCT_PACKAGES += \
+    Cerberus
 
 # SwiftKey
 PRODUCT_PACKAGES += \
@@ -82,7 +82,7 @@ PRODUCT_PACKAGES += \
 #PRODUCT_PACKAGES += \
 #    DigiCal
 
-#HedgeCam
+# HedgeCam
 #PRODUCT_PACKAGES += \
 #    HedgeCam
 
@@ -90,7 +90,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     OpenCamera
 
-#Gcamgo
+# Gcamgo
 #PRODUCT_PACKAGES += \
 #    Gcamgo
 
@@ -109,3 +109,11 @@ PRODUCT_PACKAGES += \
 # Cpl
 #PRODUCT_PACKAGES += \
 #    Cpl
+
+# GalleryGo
+PRODUCT_PACKAGES += \
+    GalleryGo
+
+# RevengeOSCalculator
+PRODUCT_PACKAGES += \
+    RevengeOSCalculator
