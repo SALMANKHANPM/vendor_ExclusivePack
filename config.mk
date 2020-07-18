@@ -31,8 +31,8 @@ PRODUCT_PACKAGES += \
     Cerberus
 
 # SwiftKey
-PRODUCT_PACKAGES += \
-    SwiftKey
+#PRODUCT_PACKAGES += \
+#    SwiftKey
 
 # AuroraStore
 #PRODUCT_PACKAGES += \
@@ -87,8 +87,8 @@ PRODUCT_PACKAGES += \
 #    HedgeCam
 
 #OpenCamera
-#PRODUCT_PACKAGES += \
-#    OpenCamera
+PRODUCT_PACKAGES += \
+    OpenCamera
 
 # Gcamgo
 #PRODUCT_PACKAGES += \
