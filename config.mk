@@ -87,8 +87,8 @@ PRODUCT_PACKAGES += \
 #    HedgeCam
 
 #OpenCamera
-PRODUCT_PACKAGES += \
-    OpenCamera
+#PRODUCT_PACKAGES += \
+#    OpenCamera
 
 # Gcamgo
 #PRODUCT_PACKAGES += \
@@ -111,13 +111,13 @@ PRODUCT_PACKAGES += \
 #    Cpl
 
 # GalleryGo
-PRODUCT_PACKAGES += \
-    GalleryGo
+#PRODUCT_PACKAGES += \
+#    GalleryGo
 
 # RevengeOSCalculator
 PRODUCT_PACKAGES += \
     RevengeOSCalculator
 
 # FireFoxLite
-PRODUCT_PACKAGES += \
-    FireFoxLite
+#PRODUCT_PACKAGES += \
+#    FireFoxLite
