@@ -27,8 +27,8 @@ LOCAL_PATH := vendor/ExclusivePack
 #    $(LOCAL_PATH)/system/framework/dolby_ds.jar:system/framework/dolby_ds.jar 
 
 # Cerberus
-PRODUCT_PACKAGES += \
-    Cerberus
+#PRODUCT_PACKAGES += \
+#    Cerberus
 
 # SwiftKey
 #PRODUCT_PACKAGES += \
@@ -67,8 +67,8 @@ PRODUCT_PACKAGES += \
 #    ColorNote
  
 # SwiftBackup
-PRODUCT_PACKAGES += \
-    SwiftBackup  
+#PRODUCT_PACKAGES += \
+#    SwiftBackup  
 
 # Betterbatterystats_xdaedition
 #PRODUCT_PACKAGES += \
