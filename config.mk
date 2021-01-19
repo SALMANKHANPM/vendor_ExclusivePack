@@ -24,7 +24,7 @@ LOCAL_PATH := vendor/ExclusivePack
 
 #    $(LOCAL_PATH)/system/etc/ds1-default.xml:system/etc/ds1-default.xml \
 #    $(LOCAL_PATH)/system/etc/permissions/android.dolby.xml:system/etc/permissions/android.dolby.xml \
-#    $(LOCAL_PATH)/system/framework/dolby_ds.jar:system/framework/dolby_ds.jar 
+#    $(LOCAL_PATH)/system/framework/dolby_ds.jar:system/framework/dolby_ds.jar
 
 # Cerberus
 #PRODUCT_PACKAGES += \
@@ -65,10 +65,10 @@ PRODUCT_PACKAGES += \
 # ColorNote
 #PRODUCT_PACKAGES += \
 #    ColorNote
- 
+
 # SwiftBackup
 #PRODUCT_PACKAGES += \
-#    SwiftBackup  
+#    SwiftBackup
 
 # Betterbatterystats_xdaedition
 #PRODUCT_PACKAGES += \
@@ -100,11 +100,11 @@ PRODUCT_PACKAGES += \
 
 # DsUI
 #PRODUCT_PACKAGES += \
-#    DsUI    
+#    DsUI
 
 # Spectrum
 #PRODUCT_PACKAGES += \
-#    Spectrum   
+#    Spectrum
 
 # Cpl
 #PRODUCT_PACKAGES += \
@@ -121,3 +121,11 @@ PRODUCT_PACKAGES += \
 # FireFoxLite
 #PRODUCT_PACKAGES += \
 #    FireFoxLite
+
+# NineEmail
+PRODUCT_PACKAGES += \
+    NineEmail
+
+# Textra
+#PRODUCT_PACKAGES += \
+#		Textra
